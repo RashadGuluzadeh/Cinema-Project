@@ -21,6 +21,54 @@
 
   /* Ramim's section begins */
 
+  .format {
+    margin-bottom: 15vw;
+  }
+
+  .format-container {
+    padding-left: 8vw;
+  }
+
+  .format-header {
+    margin-bottom: 8.3vw;
+  }
+
+  .format-main {
+    display: flex;
+  }
+
+  .format-main-box {
+    margin-right: 7.5vw;
+  }
+
+  .format-main h4 {
+    color: #1e4681;
+    margin-bottom: 1vw;
+    font-family: "Roboto";
+  }
+
+  .format-main-box p {
+    font-size: 1.3vw;
+    width: 20vw;
+  }
+  .knowladge {
+    margin-bottom: 15vw;
+  }
+
+  .knowladge-container {
+    padding-left: 8vw;
+  }
+
+  .knowladge-header {
+    margin-bottom: 3.5vw;
+  }
+
+  .knowladge-main-box ul {
+    width: 46vw;
+    padding-left: 2vw;
+    font-size: 1.7vw;
+  }
+
   /* End of Ramin's section */
 
   /* Vusal's section begins */

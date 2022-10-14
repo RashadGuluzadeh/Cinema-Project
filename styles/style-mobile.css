@@ -20,6 +20,51 @@
 
   /* Ramim's section begins */
 
+  .format {
+    margin-bottom: 21vw;
+  }
+
+  .format-container {
+    padding-left: 10vw;
+  }
+
+  .format-header {
+    margin-bottom: 7vw;
+  }
+
+  .format-main-box {
+    margin-bottom: 7vw;
+  }
+
+  .format-main h4 {
+    color: #1e4681;
+    margin-bottom: 1vw;
+  }
+
+  .format-main-box p {
+    width: 50vw;
+    font-size: 2.6vw;
+    padding-right: 6vw;
+  }
+  .knowladge {
+    margin-bottom: 21vw;
+  }
+
+  .knowladge-container {
+    padding-left: 10vw;
+  }
+
+  .knowladge-header {
+    margin-bottom: 7vw;
+  }
+
+  .knowladge-main-box ul {
+    width: 80vw;
+    padding-left: 5vw;
+    font-size: 3.2vw;
+    line-height: 150%;
+  }
+
   /* End of Ramin's section */
 
   /* Vusal's section begins */
