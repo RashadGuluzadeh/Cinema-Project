@@ -214,6 +214,108 @@
 
   /* Vusal's section begins */
 
+  .course-program {
+    margin-bottom: 11vw;
+  }
+
+  .course-program-container {
+    padding-left: 10vw;
+  }
+
+  .course-program-header {
+    margin-bottom: 13vw;
+  }
+
+  .cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 50vw;
+    height: 40vw;
+    background: #ffffff;
+    margin-bottom: 7vw;
+    margin-right: 8vw;
+    box-shadow: 1vw 1vw 3vw rgba(0, 0, 0, 0.25);
+    border-radius: 4vw;
+  }
+
+  .card-img img {
+    width: 50vw;
+  }
+
+  .card-content {
+    padding-left: 2.5vw;
+    margin-bottom: 2.5vw;
+  }
+
+  .card-content h3 {
+    margin-bottom: 4vw;
+  }
+
+  .card-content p {
+    font-size: 3.2vw;
+    line-height: 130%;
+    padding-right: 12vw;
+    color: #000000;
+  }
+
+  .last p {
+    margin-top: -4vw;
+  }
+  .course-comment-container {
+    background-color: #e5e5e5;
+    padding-left: 10vw;
+    padding-top: 11vw;
+    padding-bottom: 11vw;
+  }
+
+  .course-comment-header {
+    margin-bottom: 8vw;
+    width: 68vw;
+  }
+
+  .comment-main-box {
+    background-color: #ffffff;
+    border-radius: 3vw;
+    width: 82.5vw;
+    height: 70vw;
+    padding-left: 5.5vw;
+    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+  }
+
+  .comment-main-box-content {
+    width: 68vw;
+    padding-top: 6vw;
+    margin-bottom: 6vw;
+  }
+
+  .comment-main-box-content p {
+    font-size: 2.5vw;
+    line-height: 150%;
+    color: #000000;
+  }
+
+  .comment-main-box-prof {
+    display: flex;
+  }
+
+  .comment-main-box-prof-avatar img {
+    width: 25vw;
+  }
+
+  .comment-main-box-prof-info h3 {
+    color: #000000;
+    padding-top: 5vw;
+    margin-bottom: 4vw;
+  }
+
+  .comeent-main-box-prof-info img {
+    width: 4.2vw;
+  }
+
   /* End of Vusal's section */
 
   /* Rashad's section begins */
