@@ -29,5 +29,110 @@
 
   /* Rashad's section begins */
 
+  .course-date-container {
+    background: #9dc9c8;
+
+    padding-left: 8vw;
+    padding-top: 12.3vw;
+    padding-bottom: 12vw;
+  }
+
+  .course-date-header {
+    margin-bottom: 3.7vw;
+  }
+
+  .course-date-main {
+    margin-bottom: 4.8vw;
+  }
+
+  .course-date-main p {
+    font-size: 1.7vw;
+    line-height: 101.38%;
+  }
+
+  .course-date-main span {
+    display: block;
+    font-size: 5.5vw;
+    line-height: 101.38%;
+    color: #000000;
+  }
+
+  .course-date-footer {
+    display: flex;
+  }
+
+  .course-date-footer-box {
+    margin-right: 4.8vw;
+    width: 20.4vw;
+  }
+
+  .course-date-footer-box p span {
+    display: block;
+    font-size: 1.6vw;
+    line-height: 101.38%;
+    margin-bottom: 0.8vw;
+    color: #000000;
+  }
+
+  .course-date-footer-box p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2vw;
+    line-height: 101.38%;
+    color: #000000;
+  }
+
+  .footer-container {
+    background-color: #000000;
+    padding-left: 8vw;
+    padding-top: 7vw;
+    padding-bottom: 5vw;
+  }
+
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10vw;
+  }
+
+  .footer-logo-social .logo {
+    margin-bottom: 2vw;
+  }
+
+  .footer-logo-social .logo img {
+    width: 8vw;
+  }
+
+  .footer-logo-social .social a img {
+    width: 2.3vw;
+    margin-right: 1.7vw;
+  }
+
+  .contact {
+    padding-right: 13vw;
+  }
+
+  .contact p img {
+    width: 1.8vw;
+    margin-right: 2vw;
+  }
+
+  .contact p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.6vw;
+    line-height: 101.38%;
+    color: #ffffff;
+    padding-bottom: 1.6vw;
+  }
+
+  .corp {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2vw;
+    line-height: 101.38%;
+    color: #ffffff;
+  }
+
   /* End of Rashad's section */
 }
