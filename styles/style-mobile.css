@@ -1,0 +1,32 @@
+@media (min-width: 320px) and (max-width: 991px) {
+  h1 {
+    font-size: 10vw;
+  }
+
+  h2 {
+    font-size: 7vw;
+  }
+
+  h3 {
+    font-size: 4vw;
+  }
+
+  h4 {
+    font-size: 3.2vw;
+  }
+  /* Ruqiyya's section begins  */
+
+  /* End of Ruqiyya's section */
+
+  /* Ramim's section begins */
+
+  /* End of Ramin's section */
+
+  /* Vusal's section begins */
+
+  /* End of Vusal's section */
+
+  /* Rashad's section begins */
+
+  /* End of Rashad's section */
+}
