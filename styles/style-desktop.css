@@ -26,8 +26,9 @@ body {
   h4 {
     font-size: 1.8vw;
   }
-   /* Ruqiyya's section begins  */
-   .header-container {
+  /* Ruqiyya's section begins  */
+
+  .header-container {
     padding-top: 2.5vw;
     padding-left: 8vw;
     margin-bottom: 2vw;
@@ -234,7 +235,6 @@ body {
     font-size: 1.7vw;
   }
 
-
   /* End of Ramin's section */
 
   /* Vusal's section begins */
@@ -253,7 +253,7 @@ body {
     padding-left: 5.8vw;
   }
 
-  .card{
+  .card {
     margin-bottom: 3vw;
     margin-right: 2.5vw;
     background: #ffffff;
@@ -447,4 +447,5 @@ body {
   }
 
   /* End of Rashad's section */
+  
 }
