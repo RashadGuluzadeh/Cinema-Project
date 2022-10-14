@@ -15,6 +15,151 @@
     font-size: 3.2vw;
   }
   /* Ruqiyya's section begins  */
+  .header-container {
+    padding-top: 5vw;
+    padding-left: 10vw;
+    margin-bottom: 2vw;
+  }
+
+  .header-logo {
+    margin-bottom: 12vw;
+  }
+
+  .header-logo img {
+    width: 14vw;
+  }
+
+  .header-info {
+    display: flex;
+  }
+
+  .header-info-content {
+    margin-right: 7vw;
+  }
+
+  .header-info-content p {
+    font-size: 2.5vw;
+  }
+
+  .header-info-content img {
+    width: 2.7vw;
+    margin-right: 1vw;
+  }
+  .movie {
+    margin-bottom: 21vw;
+  }
+
+  .movie-container {
+    padding-left: 10vw;
+  }
+
+  .movie-header {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-bottom: 10.5vw;
+  }
+
+  .movie-header-content h1 {
+    margin-bottom: 3.5vw;
+  }
+
+  .movie-header-content p {
+    font-size: 2.6vw;
+    width: 56vw;
+  }
+
+  .movie-header-img {
+    margin-right: 8.5vw;
+  }
+
+  .movie-header-img img {
+    width: 38vw;
+  }
+
+  .movie-main-comment {
+    width: 60vw;
+    height: 25vw;
+    color: #ffffff;
+    background: #1e4681;
+    border-radius: 0.6vw;
+  }
+
+  .content {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: normal;
+    width: 53vw;
+    padding: 2.4vw 3.2vw 0 3.2vw;
+    font-size: 2.7vw;
+  }
+
+  .author {
+    font-size: 2.7vw;
+    line-height: 130%;
+    padding-right: 3vw;
+    margin-top: 2vw;
+    text-align: right;
+  }
+  .course {
+    margin-bottom: 12vw;
+  }
+
+  .course-container {
+    padding-left: 10vw;
+  }
+
+  .course-header {
+    margin-bottom: 5.5vw;
+  }
+
+  .course-main-content {
+    width: 82vw;
+    margin-bottom: 4.2vw;
+  }
+
+  .course-main-content p {
+    font-size: 3.2vw;
+  }
+
+  .course-main-content p.course-main-content-first {
+    margin-bottom: 5.5vw;
+  }
+
+  .course-main-img {
+    display: flex;
+    justify-content: center;
+    padding-right: 10vw;
+    margin-bottom: 12vw;
+  }
+
+  .cameraman {
+    width: 46vw;
+  }
+
+  .course-footer-img {
+    display: none;
+  }
+
+  .course-footer-content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .course-footer-content-box {
+    margin-bottom: 9vw;
+    margin-right: 48px;
+  }
+
+  .course-footer-content-box h4 {
+    margin-bottom: 0.2vw;
+  }
+
+  .course-footer-content-box p {
+    width: 23vw;
+    font-size: 2.6vw;
+    padding-right: 2vw;
+  }
 
   /* End of Ruqiyya's section */
 
