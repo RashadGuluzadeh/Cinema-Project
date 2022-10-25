@@ -1,34 +1,34 @@
 @media (min-width: 992px) and (max-width: 1279px) {
   h1 {
-    font-size: 5.5vw;
+    font-size: 54.56px;
   }
 
   h2 {
-    font-size: 3.8vw;
+    font-size: 37.696px;
   }
 
   h3 {
-    font-size: 2vw;
+    font-size: 19.84px;
   }
 
   h4 {
-    font-size: 1.8vw;
+    font-size: 17.856px;
   }
 
   /* Ruqiyya's section begins  */
 
   .header-container {
-    padding-top: 2.5vw;
-    padding-left: 8vw;
-    margin-bottom: 2vw;
+    padding-top: 24.8px;
+    padding-left: 79.36px;
+    margin-bottom: 19.84px;
   }
 
   .header-logo {
-    margin-bottom: 7vw;
+    margin-bottom: 69.44px;
   }
 
   .header-logo img {
-    width: 8vw;
+    width: 79.36px;
   }
 
   .header-info {
@@ -36,120 +36,120 @@
   }
 
   .header-info-content {
-    margin-right: 3vw;
+    margin-right: 29.76px;
   }
 
   .header-info-content p {
-    font-size: 1.5vw;
+    font-size: 14.88px;
   }
 
   .header-info-content img {
-    width: 1.7vw;
-    margin-right: 1vw;
+    width: 16.864px;
+    margin-right: 9.92px;
   }
   .movie {
-    margin-bottom: 8vw;
+    margin-bottom: 79.36px;
   }
 
   .movie-container {
-    padding-left: 8vw;
+    padding-left: 79.36px;
   }
 
   .movie-header {
     display: flex;
-    margin-bottom: 6vw;
+    margin-bottom: 59.52px;
   }
 
   .movie-header-content {
-    margin-right: 10vw;
+    margin-right: 99.2px;
   }
 
   .movie-header-content h1 {
-    width: 44vw;
-    margin-bottom: 3vw;
+    width: 436.48px;
+    margin-bottom: 29.76px;
   }
 
   .movie-header-content p {
-    font-size: 1.5vw;
-    width: 31vw;
+    font-size: 14.88px;
+    width: 307.52px;
   }
 
   .movie-header-img {
-    margin-right: 17vw;
+    margin-right: 168.64px;
   }
 
   .movie-header-img img {
-    width: 22vw;
+    width: 218.24px;
   }
 
   .movie-main {
     display: flex;
     justify-content: center;
-    padding-right: 15vw;
+    padding-right: 148.8px;
   }
 
   .movie-main-comment {
-    width: 34vw;
-    height: 14vw;
+    width: 337.28px;
+    height: 138.88px;
     color: #ffffff;
     background: #1e4681;
-    border-radius: 0.3vw;
+    border-radius: 2.976px;
   }
 
   .content {
-    width: 32vw;
-    font-size: 1.7vw;
+    width: 317.44px;
+    font-size: 16.864px;
     font-family: Roboto Slab;
     font-style: normal;
     font-weight: normal;
-    padding: 1.4vw 1.5vw 0 2vw;
+    padding: 13.888px 14.88px 0 19.84px;
   }
 
   .author {
-    font-size: 1.4vw;
+    font-size: 13.888px;
     line-height: 130%;
-    padding-right: 1.2vw;
-    margin-top: 0.4vw;
+    padding-right: 11.904px;
+    margin-top: 3.968px;
     text-align: right;
   }
   .course {
-    margin-bottom: 12vw;
+    margin-bottom: 119.04px;
   }
 
   .course-container {
-    padding-left: 8vw;
+    padding-left: 79.36px;
   }
 
   .course-header {
-    margin-bottom: 5.5vw;
+    margin-bottom: 54.56px;
   }
 
   .course-main {
     display: flex;
-    margin-bottom: 5.2vw;
+    margin-bottom: 51.584px;
   }
 
   .course-main-content {
-    width: 46vw;
-    margin-right: 14vw;
+    width: 456.32px;
+    margin-right: 138.88px;
   }
 
   .course-main-content p {
-    font-size: 1.7vw;
+    font-size: 16.864px;
   }
 
   .course-main-content p.course-main-content-first {
-    margin-bottom: 2.8vw;
+    margin-bottom: 27.776px;
   }
 
   .course-main-img {
     display: flex;
     justify-content: center;
-    padding-right: 10vw;
+    padding-right: 99.2px;
   }
 
   .cameraman {
-    width: 21.8vw;
+    width: 216.256px;
   }
 
   .course-footer-container {
@@ -157,8 +157,8 @@
   }
 
   .course-footer-img {
-    width: 16vw;
-    margin-right: 13vw;
+    width: 158.72px;
+    margin-right: 128.96px;
   }
 
   .course-footer-content {
@@ -167,16 +167,16 @@
   }
 
   .course-footer-content-box {
-    margin-right: 6.6vw;
+    margin-right: 65.472px;
   }
 
   .course-footer-content-box h4 {
-    margin-bottom: 0.5vw;
+    margin-bottom: 4.96px;
   }
 
   .course-footer-content-box p {
-    width: 10.5vw;
-    font-size: 1.3vw;
+    width: 104.16px;
+    font-size: 12.896px;
   }
 
   /* End of Ruqiyya's section */
@@ -184,15 +184,15 @@
   /* Ramim's section begins */
 
   .format {
-    margin-bottom: 15vw;
+    margin-bottom: 148.8px;
   }
 
   .format-container {
-    padding-left: 8vw;
+    padding-left: 79.36px;
   }
 
   .format-header {
-    margin-bottom: 8.3vw;
+    margin-bottom: 82.336px;
   }
 
   .format-main {
@@ -200,35 +200,35 @@
   }
 
   .format-main-box {
-    margin-right: 7.5vw;
+    margin-right: 74.4px;
   }
 
   .format-main h4 {
     color: #1e4681;
-    margin-bottom: 1vw;
+    margin-bottom: 9.92px;
     font-family: "Roboto";
   }
 
   .format-main-box p {
-    font-size: 1.3vw;
-    width: 20vw;
+    font-size: 12.896px;
+    width: 198.4px;
   }
   .knowladge {
-    margin-bottom: 15vw;
+    margin-bottom: 148.8px;
   }
 
   .knowladge-container {
-    padding-left: 8vw;
+    padding-left: 79.36px;
   }
 
   .knowladge-header {
-    margin-bottom: 3.5vw;
+    margin-bottom: 34.72px;
   }
 
   .knowladge-main-box ul {
-    width: 46vw;
-    padding-left: 2vw;
-    font-size: 1.7vw;
+    width: 456.32px;
+    padding-left: 19.84px;
+    font-size: 16.864px;
   }
 
   /* End of Ramin's section */
@@ -236,80 +236,80 @@
   /* Vusal's section begins */
 
   .course-program {
-    margin-bottom: 6.5vw;
+    margin-bottom: 64.48px;
   }
   .course-program-header {
-    padding-left: 8vw;
-    margin-bottom: 8.6vw;
+    padding-left: 79.36px;
+    margin-bottom: 85.312px;
   }
 
   .cards {
     display: flex;
     flex-wrap: wrap;
-    padding-left: 5.8vw;
+    padding-left: 57.536px;
   }
 
   .card {
-    width: 27vw;
-    height: 22vw;
-    margin-bottom: 3vw;
-    margin-right: 2.5vw;
+    width: 267.84px;
+    height: 218.24px;
+    margin-bottom: 29.76px;
+    margin-right: 24.8px;
     background: #ffffff;
-    box-shadow: 1vw 1vw 3vw rgba(0, 0, 0, 0.25);
-    border-radius: 2vw;
+    box-shadow: 9.92px 9.92px 29.76px rgba(0, 0, 0, 0.25);
+    border-radius: 19.84px;
   }
 
   .card-img img {
-    width: 27vw;
+    width: 267.84px;
   }
 
   .card-content {
-    margin-top: 0.5vw;
-    padding-left: 1.2vw;
+    margin-top: 4.96px;
+    padding-left: 11.904px;
   }
 
   .card-content h3 {
-    margin-bottom: 2.6vw;
+    margin-bottom: 25.792px;
   }
 
   .card-content p {
-    font-size: 1.6vw;
+    font-size: 15.872px;
 
-    padding-right: 8vw;
+    padding-right: 79.36px;
     color: #000000;
   }
 
   .last p {
-    margin-top: -2.2vw;
+    margin-top: -21.824px;
   }
   .course-comment-container {
     background-color: #e5e5e5;
-    padding-left: 8vw;
-    padding-top: 6.3vw;
-    padding-bottom: 7.7vw;
+    padding-left: 79.36px;
+    padding-top: 62.496px;
+    padding-bottom: 76.384px;
   }
 
   .course-comment-header {
-    margin-bottom: 4vw;
+    margin-bottom: 39.68px;
   }
 
   .comment-main-box {
     background-color: #ffffff;
-    border-radius: 2vw;
-    width: 55vw;
-    height: 31.5vw;
-    padding-left: 3vw;
-    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+    border-radius: 19.84px;
+    width: 545.6px;
+    height: 312.48px;
+    padding-left: 29.76px;
+    box-shadow: 0.047vw 0.047vw 0.939vw rgba(0, 0, 0, 0.25);
   }
 
   .comment-main-box-content {
-    width: 48vw;
-    padding-top: 2.7vw;
-    margin-bottom: 2vw;
+    width: 476.16px;
+    padding-top: 26.784px;
+    margin-bottom: 19.84px;
   }
 
   .comment-main-box-content p {
-    font-size: 1.4vw;
+    font-size: 13.888px;
     line-height: 150%;
     color: #000000;
   }
@@ -319,20 +319,19 @@
   }
 
   .comment-main-box-prof-avatar img {
-    width: 13vw;
-    margin-right: 2vw;
+    width: 128.96px;
+    margin-right: 19.84px;
   }
 
   .comment-main-box-prof-info h3 {
-    padding-top: 2.4vw;
-    margin-bottom: 2vw;
+    padding-top: 23.808px;
+    margin-bottom: 19.84px;
     color: #000000;
   }
 
   .comment-main-box-prof-info img {
-    width: 2.2vw;
+    width: 21.824px;
   }
-
   /* End of Vusal's section */
 
   /* Rashad's section begins */
@@ -340,27 +339,27 @@
   .course-date-container {
     background: #9dc9c8;
 
-    padding-left: 8vw;
-    padding-top: 12.3vw;
-    padding-bottom: 12vw;
+    padding-left: 79.36px;
+    padding-top: 122.016px;
+    padding-bottom: 119.04px;
   }
 
   .course-date-header {
-    margin-bottom: 3.7vw;
+    margin-bottom: 36.704px;
   }
 
   .course-date-main {
-    margin-bottom: 4.8vw;
+    margin-bottom: 47.616px;
   }
 
   .course-date-main p {
-    font-size: 1.7vw;
+    font-size: 16.864px;
     line-height: 101.38%;
   }
 
   .course-date-main span {
     display: block;
-    font-size: 5.5vw;
+    font-size: 54.56px;
     line-height: 101.38%;
     color: #000000;
   }
@@ -370,74 +369,74 @@
   }
 
   .course-date-footer-box {
-    margin-right: 4.8vw;
-    width: 20.4vw;
+    margin-right: 47.616px;
+    width: 202.368px;
   }
 
   .course-date-footer-box p span {
     display: block;
-    font-size: 1.6vw;
+    font-size: 15.872px;
     line-height: 101.38%;
-    margin-bottom: 0.8vw;
+    margin-bottom: 7.936px;
     color: #000000;
   }
 
   .course-date-footer-box p {
     font-style: normal;
     font-weight: normal;
-    font-size: 1.2vw;
+    font-size: 11.904px;
     line-height: 101.38%;
     color: #000000;
   }
 
   .footer-container {
     background-color: #000000;
-    padding-left: 8vw;
-    padding-top: 7vw;
-    padding-bottom: 5vw;
+    padding-left: 79.36px;
+    padding-top: 69.44px;
+    padding-bottom: 49.6px;
   }
 
   .footer-top {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10vw;
+    margin-bottom: 99.2px;
   }
 
   .footer-logo-social .logo {
-    margin-bottom: 2vw;
+    margin-bottom: 19.84px;
   }
 
   .footer-logo-social .logo img {
-    width: 8vw;
+    width: 79.36px;
   }
 
   .footer-logo-social .social a img {
-    width: 2.3vw;
-    margin-right: 1.7vw;
+    width: 22.816px;
+    margin-right: 16.864px;
   }
 
   .contact {
-    padding-right: 13vw;
+    padding-right: 128.96px;
   }
 
   .contact p img {
-    width: 1.8vw;
-    margin-right: 2vw;
+    width: 17.856px;
+    margin-right: 19.84px;
   }
 
   .contact p {
     font-style: normal;
     font-weight: normal;
-    font-size: 1.6vw;
+    font-size: 15.872px;
     line-height: 101.38%;
     color: #ffffff;
-    padding-bottom: 1.6vw;
+    padding-bottom: 15.872px;
   }
 
   .corp {
     font-style: normal;
     font-weight: normal;
-    font-size: 1.2vw;
+    font-size: 11.904px;
     line-height: 101.38%;
     color: #ffffff;
   }
